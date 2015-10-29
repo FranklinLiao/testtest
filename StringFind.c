@@ -38,5 +38,6 @@ int main(int argc, char *argv[])
 	int index = findSubStr(string,10,subString,3);
 	printf("index : %d",index);
 	getchar();
+	//哈哈
 	return 0;
 }
